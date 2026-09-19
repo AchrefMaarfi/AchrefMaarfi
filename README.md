@@ -2,7 +2,8 @@
 
 Software Engineer based in Tunisia — full-stack development, UI/UX and a bit of photography on the side.
 
-I build scalable, user-centered web applications with React, Next.js, Django and PostgreSQL. Recently graduated in Software Engineering from ESPRIT, currently shipping full-stack platforms (most recently **Plan'IT**, a social media management SaaS with AI-assisted content generation) and open to new opportunities.
+I build scalable, user-centered web applications with React, Next.js, Django and PostgreSQL. Recently graduated in Software Engineering from ESPRIT, currently shipping full-stack platforms (most recently **Plan'IT**, a social media management SaaS with AI-assisted content generation) and open to new opportunities. Check out my work at my **[portfolio website](https://achrefmaarfi.qzz.io/)**.
+
 
 - 🔭 Currently building SaaS products end-to-end, from MVP to production
 - 🌱 Sharpening automation and AI-integration skills
